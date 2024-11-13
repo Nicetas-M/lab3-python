@@ -1,0 +1,6 @@
+text_file=text.txt
+target_language=ru
+output=screen
+max_chars=600
+max_words=100
+max_sentences=5
